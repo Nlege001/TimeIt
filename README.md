@@ -1,6 +1,5 @@
-<img src=https://github.com/Nlege001/TimeIt/blob/main/TimeIt.png>
 # TimeIt: a to-do list application 
-
+   <img src=https://github.com/Nlege001/TimeIt/blob/main/TimeIt.png>
 
 ## About
 #### TimeIt is a simple to-do list application that helps you plan out your day. You can coustimize reminders and reoccuring events based on your needs. You can also import your other events from you google calendar for you convinience.
