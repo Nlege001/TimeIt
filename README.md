@@ -19,4 +19,4 @@
 - I am also working on adding a voice assitant that will read out reminders to users when the activity time comes
 
 ## Snippet of the TimeIt to-do list appplication
-<img src="https://media.giphy.com/media/exXiQNYLPjTdyGvw3o/giphy.gif" width= 1000/>
+<img src="https://media.giphy.com/media/exXiQNYLPjTdyGvw3o/giphy.gif" width= 500/>
