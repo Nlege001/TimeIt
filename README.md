@@ -1,4 +1,4 @@
-# TimeIt: a to do list application 
+# TimeIt: a to-do list application 
 
 ## About
 #### TimeIt is a simple to-do list application that helps you plan out your day. You can coustimize reminders and reoccuring events based on your needs. You can also import your other events from you google calendar for you convinience.
